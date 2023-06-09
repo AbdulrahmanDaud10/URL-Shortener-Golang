@@ -1,0 +1,10 @@
+# database configurations
+DB_HOST = "127.0.0.1"
+DB_PORT = "5432"
+DB_USER = ""
+DB_NAME = "url_shortner"
+DB_PASSWORD = ""
+
+# port for app to listen and serve
+LISTEN_ADDRESS = "127.0.0.1"
+LISTEN_PORT = "8080"
